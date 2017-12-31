@@ -1,0 +1,16 @@
+{
+  "objects": 10,
+  "unitsDistance": " m",
+  "landmarks": [
+    {"name": "Gasometr of Bovisa", "height": "50", "Lat": "45.503905", "Lon": "9.154706", "Description": ""},
+    {"name": "... tower", "height": "19.5", "Lat": "45.504961", "Lon": "9.166906", "Description": ""},
+    {"name": "Poli.Hub building", "height": "32.5", "Lat": "45.506729", "Lon": "9.162738", "Description": ""},
+    {"name": "Infopoint tower", "height": "15", "Lat": "45.504461", "Lon": "9.165825", "Description": ""},
+    {"name": "Milan Cathedral 'Duomo'", "height": "107", "Lat": "45.464159", "Lon": "9.192029", "Description": ""},
+    {"name": "Torre Velasca", "height": "106", "Lat": "45.459885", "Lon": "9.190702", "Description": ""},
+    {"name": "Unicredit Tower", "height": "231", "Lat": "45.483612", "Lon": "9.190084", "Description": ""},
+    {"name": "Sequoia Hyperion", "height": "115.66", "Lat": "41.211111", "Lon": "-124.002778", "Description": ""},
+    {"name": "Eiffel Tower", "height": "325", "Lat": "48.858300", "Lon": "2.294500", "Description": ""},
+    {"name": "Burj Khalifa", "height": "829", "Lat": "25.197222", "Lon": "55.274056", "Description": ""}
+  ]
+}
